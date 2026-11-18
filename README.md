@@ -3,7 +3,7 @@
 **Computer Vision MSc student** · Software developer · Game dev on the side
 
 I build computer vision tools: tracking, detection, feature matching, 3D point clouds and performance tuning in Python.
-I'm currently doing the *Máster Oficial en Visión Artificial* and working with [@geo-vision-lab](https://github.com/geo-vision-lab).
+I'm currently doing the *Máster Oficial en Visión Artificial
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
