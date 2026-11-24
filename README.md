@@ -3,7 +3,7 @@
 Computer Vision MSc student · Madrid 🇪🇸
 
 I have worked on retail point-of-sale systems, where I've helped integrate and deploy **computer vision for product detection and loss prevention** in real stores.
-I'm now specializing in computer vision with the *Máster en Visión Artificial* at URJC, and I'm part of [@geo-vision-lab](https://github.com/geo-vision-lab).
+I'm now specializing in computer vision with the *Máster en Visión Artificial* at URJC*.
 
 - 🔭 Working on: computer vision projects (tracking, detection, feature matching, 3D point clouds), coming soon
 - 🎓 BSc in Video Game Design & Development (URJC)
